@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccountManagerSample</string>
+    <string name="my_custom_account">mh</string>
+</resources>
